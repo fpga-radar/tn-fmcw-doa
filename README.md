@@ -32,43 +32,43 @@ The below chapters are rendered via the nbviewer at nbviewer.jupyter.org/, and i
 
 2. **Covariance Matrix** ·
    [Read chapter](https://fpga-radar.github.io/tn-fmcw-doa/02_covariance_matrix.html) ·
-   [View notebook](https://github.com/fpga-radar/tn-fmcw-doa/blob/main/notebooks/02_covariance_matrix.ipynb)
+   [View notebook](notebooks/02_covariance_matrix.ipynb)
 
    Spatial covariance estimation, matrix interpretation, forward-backward averaging, diagonal loading, eigendecomposition, and source-number estimation for covariance-based DoA processing
 
 3. **FMCW MIMO** ·
    [Read chapter](https://fpga-radar.github.io/tn-fmcw-doa/03_fmcw_mimo.html) ·
-   [View notebook](https://github.com/fpga-radar/tn-fmcw-doa/blob/main/notebooks/03_fmcw_mimo.ipynb)
+   [View notebook](notebooks/03_fmcw_mimo.ipynb)
 
    FMCW TDM-MIMO processing for DoA estimation, with emphasis on the processing chain, covariance snapshot extraction, and comparison of snapshot-formation strategies.
 
 4. **Spatial FFT Beamformer** ·
    [Read chapter](https://fpga-radar.github.io/tn-fmcw-doa/04_fft_beamformer.html) ·
-   [View notebook](https://github.com/fpga-radar/tn-fmcw-doa/blob/main/notebooks/04_fft_beamformer.ipynb)
+   [View notebook](notebooks/04_fft_beamformer.ipynb)
 
    FFT beamformer fundamentals and performance analysis, including angular resolution and spectral leakage.
 
 5. **Bartlett Beamformer** ·
    [Read chapter](https://fpga-radar.github.io/tn-fmcw-doa/05_bartlett.html) ·
-   [View notebook](https://github.com/fpga-radar/tn-fmcw-doa/blob/main/notebooks/05_bartlett.ipynb)
+   [View notebook](notebooks/05_bartlett.ipynb)
 
    Bartlett beamformer fundamentals and performance analysis, including angular resolution and steering grid sampling.
 
 6. **Capon MVDR Beamformer** ·
    [Read chapter](https://fpga-radar.github.io/tn-fmcw-doa/06_capon_mvdr.html) ·
-   [View notebook](https://github.com/fpga-radar/tn-fmcw-doa/blob/main/notebooks/06_capon_mvdr.ipynb)
+   [View notebook](notebooks/06_capon_mvdr.ipynb)
 
    Capon/MVDR beamformer fundamentals and performance analysis, including covariance preprocessing with validation on **AWR2243**, angular resolution, and sensitivity to array-model mismatch.
 
 7. **MUSIC** ·
    [Read chapter](https://fpga-radar.github.io/tn-fmcw-doa/07_music.html) ·
-   [View notebook](https://github.com/fpga-radar/tn-fmcw-doa/blob/main/notebooks/07_music.ipynb)
+   [View notebook](notebooks/07_music.ipynb)
 
    MUSIC fundamentals and performance analysis, including subspace decomposition, probability of resolution, DoA estimation accuracy, and validation on **AWR2243**.
 
 8. **ESPRIT** ·
    [Read chapter](https://fpga-radar.github.io/tn-fmcw-doa/08_esprit.html) ·
-   [View notebook](https://github.com/fpga-radar/tn-fmcw-doa/blob/main/notebooks/08_esprit.ipynb)
+   [View notebook](notebooks/08_esprit.ipynb)
 
    ESPRIT LS (Least-Squares) and TLS (Total Least-Squares) fundamentals and performance analysis, including probability of resolution, DoA estimation accuracy, and validation on **AWR2243**.
 
